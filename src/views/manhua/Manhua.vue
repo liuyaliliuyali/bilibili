@@ -3,6 +3,7 @@
         <manhua-header></manhua-header>
         <manhua-swiper></manhua-swiper>
         <manhua-nav></manhua-nav>
+        <manhua-recommend></manhua-recommend>
     </div>
 </template>
 
@@ -10,13 +11,18 @@
     import ManhuaHeader from "./components/ManhuaHeader";
     import ManhuaSwiper from "./components/ManhuaSwiper";
     import ManhuaNav from "./components/ManhuaNav";
+    import ManhuaRecommend from "./components/ManhuaRecommend";
     export default {
         name: "Manhua",
-        components: {ManhuaHeader, ManhuaNav, ManhuaSwiper}
+        components: {ManhuaRecommend, ManhuaHeader, ManhuaNav, ManhuaSwiper}
     }
 </script>
 
-<style scoped>
+<style>
+    body{
+        margin: 0;
+        padding: 0;
+    }
 
 </style>
 
