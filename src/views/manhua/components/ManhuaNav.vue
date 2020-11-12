@@ -17,7 +17,7 @@
             <a href="#">玄幻</a>
             <a href="#">全部></a>
 
-            
+
 
         </div>
     </div>
@@ -37,18 +37,17 @@
 
     }
 .container{
-    width: 1200px;
+    width: 1160px;
     margin: 0 auto;
 }
     .manhua-nav a{
         display: inline-block;
-        width: 80px;
+        width: 77px;
         height: 70px;
         line-height: 70px;
 
         font-size: 16px;
         color: white;
         text-decoration: none;
-
     }
 </style>

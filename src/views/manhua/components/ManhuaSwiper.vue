@@ -28,12 +28,13 @@
 </script>
 
 <style scoped>
-
-
 .manhua-swiper{
+    padding-top: 50px;
     height: 380px;
     width: 100%;
     background: #212121;
+
+    box-shadow: 0 ;
 }
 .manhua-swiper a{
     display: inline-block;
