@@ -58,7 +58,7 @@
         padding: 0;
     }
     .head{
-        border: 1px solid blue;
+
         width: 100%;
         height: 460px;
         top: 0;
@@ -73,7 +73,7 @@
         background: #fff;
     }
     .head-second{
-        border: 1px solid green;
+        position: relative;
         width: 100%;
         height: 400px;
         top: 0;
@@ -81,16 +81,19 @@
         background: url("../bilibili游戏中心/top-gamelist.jpg") no-repeat center center;
     }
     .trundle{
-
+        position: relative;
         width: 1000px;
         height: 220px;
-        margin: 33px auto;
+        top: 33px;
+        margin:auto;
     }
     .blackbutton{
+        position: relative;
+        top: 60px;
         border: 1px solid #212121;
         height: 109px;
         width: 1000px;
-        margin: -6px auto;
+        margin: auto;
         background: url("../bilibili游戏中心/mainmenu-ul-180523.jpg");
     }
     .bg1{
