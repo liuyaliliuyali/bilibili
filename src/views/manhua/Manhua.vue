@@ -4,6 +4,7 @@
         <manhua-swiper></manhua-swiper>
         <manhua-nav></manhua-nav>
         <manhua-recommend></manhua-recommend>
+        <manhua-rank></manhua-rank>
     </div>
 </template>
 
@@ -12,9 +13,10 @@
     import ManhuaSwiper from "./components/ManhuaSwiper";
     import ManhuaNav from "./components/ManhuaNav";
     import ManhuaRecommend from "./components/ManhuaRecommend";
+    import ManhuaRank from "./components/ManhuaRank";
     export default {
         name: "Manhua",
-        components: {ManhuaRecommend, ManhuaHeader, ManhuaNav, ManhuaSwiper}
+        components: {ManhuaRank, ManhuaRecommend, ManhuaHeader, ManhuaNav, ManhuaSwiper}
     }
 </script>
 
