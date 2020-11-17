@@ -76,24 +76,24 @@
                     price:47
                 },{
                     id:1,
-                    url:"//i0.hdslb.com/bfs/openplatform/202010/xtVUZVqA1602844337833.jpeg@350w_466h.jpeg",
-                    name:'苏州·萤火跨年盛典',
-                    date:'📅 2021.01.01 - 01.01',
-                    address:'📍 苏州市 天虹商业购物中心',
-                    price:47
+                    url:"//i0.hdslb.com/bfs/openplatform/202010/in1Pbdci1603267887344.jpeg@350w_466h.jpeg",
+                    name:'海口·FOC x 国漫动漫游戏元旦祭',
+                    date:'📅 2021.01.01 - 01.02',
+                    address:'📍 海口市 玉沙京华城',
+                    price:37
                 },{
                     id:1,
-                    url:"//i0.hdslb.com/bfs/openplatform/202010/xtVUZVqA1602844337833.jpeg@350w_466h.jpeg",
-                    name:'苏州·萤火跨年盛典',
-                    date:'📅 2021.01.01 - 01.01',
-                    address:'📍 苏州市 天虹商业购物中心',
-                    price:47
+                    url:"//i1.hdslb.com/bfs/openplatform/202011/5mXi0yPC1604544087776.jpeg@350w_466h.jpeg",
+                    name:'西安·第一届世界线动漫展',
+                    date:'📅 2021.01.01 - 01.03',
+                    address:'📍 西安·第一届世界线动漫展',
+                    price:60
                 },{
                     id:1,
-                    url:"//i0.hdslb.com/bfs/openplatform/202010/xtVUZVqA1602844337833.jpeg@350w_466h.jpeg",
-                    name:'苏州·萤火跨年盛典',
-                    date:'📅 2021.01.01 - 01.01',
-                    address:'📍 苏州市 天虹商业购物中心',
+                    url:"//i1.hdslb.com/bfs/openplatform/202011/WVbL1xVW1604376297515.jpeg@350w_466h.jpeg",
+                    name:'漳州·墨卡动漫嘉年华元旦冬日祭',
+                    date:'📅 2021.01.02 - 01.02',
+                    address:'📍 漳州市 月港公园',
                     price:47
                 },{
                     id:1,
@@ -192,11 +192,11 @@
         font-size: 15px;
         color: #99a9bf;
     }
-    .one p:box-of-type {
+    .one p:-of-type {
         font-size: 18px;
         padding-bottom: 20px;
         color: #212121;
-        padding-top: 20px;
+        padding-top: 20pfistx;
     }
     .one p:last-of-type {
         font-size: 26px;
