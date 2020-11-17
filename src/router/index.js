@@ -11,7 +11,7 @@ const routes = [
   {
     path: '/manhua',
     name: 'Manhua',
-    component: Manhua
+    component: Manhua,
   },
   {
     path: '/member',

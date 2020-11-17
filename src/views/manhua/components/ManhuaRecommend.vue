@@ -6,35 +6,10 @@
                 <span>为你推荐</span>
             </div>
             <div class="main">
-                <div class="type">
-                    <a href="#"></a>
-                    <div class="type-title">原来我是恋爱游戏里的工具</div>
-                    <span style="font-size: 12px;color: #999999">后宫 搞笑 奇幻</span>
-                </div>
-                <div class="type">
-                    <a href="#"></a>
-                    <div class="type-title">到了30岁还是童贞的话，好像就会变成魔法使</div>
-                    <span style="font-size: 12px;color: #999999">恋爱</span>
-                </div>
-                <div class="type">
-                    <a href="#"></a>
-                    <div class="type-title">本剑仙绝不吃软饭</div>
-                    <span style="font-size: 12px;color: #999999">玄幻 搞笑 都市</span>
-                </div>
-                <div class="type">
-                    <a href="#"></a>
-                    <div class="type-title">百炼成神</div>
-                    <span style="font-size: 12px;color: #999999">奇幻 热血</span>
-                </div>
-                <div class="type">
-                    <a href="#"></a>
-                    <div class="type-title">我独自盗墓</div>
-                    <span style="font-size: 12px;color: #999999">热血 冒险 奇幻</span>
-                </div>
-                <div class="type">
-                    <a href="#"></a>
-                    <div class="type-title">废女妖神</div>
-                    <span style="font-size: 12px;color: #999999">古风 恋爱 玄幻</span>
+                <div class="type" v-for="item in dt">
+                    <a href="#" :style="{backgroundImage: 'url('+item.imgUrl+')'}"></a>
+                    <div class="type-title">{{item.title}}</div>
+                    <span style="font-size: 12px;color: #999999">{{item.tag}}</span>
                 </div>
             </div>
         </div>
@@ -43,11 +18,15 @@
 
 <script>
     export default {
-        name: "ManhuaRecommend"
+        name: "ManhuaRecommend",
+        props:['dt']
     }
 </script>
 
 <style scoped>
+    .manhua-recommend{
+        margin-bottom: 40px;
+    }
     .main{
         /*height: 500px;*/
     }
@@ -85,24 +64,6 @@
         background-size: cover;
         background-repeat: no-repeat;
         background-position: 50%;
-    }
-    .type:first-of-type a{
-        background-image: url("//i0.hdslb.com/bfs/manga-static/a7dc676429bf6342e5d275a7b797465651165d4f.jpg@360w_480h.jpg")
-    }
-    .type:nth-of-type(2) a{
-        background-image: url("//i0.hdslb.com/bfs/manga-static/0e1c13d444d30e3cf192a853d3b87011b7ed4073.jpg@360w_480h.jpg");
-    }
-    .type:nth-of-type(3) a{
-        background-image: url("//i0.hdslb.com/bfs/manga-static/5d065f26899dc31eb8fec4be4f8ca85a804e0a06.jpg@360w_480h.jpg");
-    }
-    .type:nth-of-type(4) a{
-        background-image: url("//i0.hdslb.com/bfs/manga-static/bbd258a4123ddf8631727e3337dc2a5c99d2f087.jpg@360w_480h.jpg");
-    }
-    .type:nth-of-type(5) a{
-        background-image: url("//i0.hdslb.com/bfs/manga-static/9042fb75ddd325061fa4c221ac203e7a3b8c186f.jpg@360w_480h.jpg");
-     }
-    .type:nth-of-type(6) a{
-        background-image: url("//i0.hdslb.com/bfs/manga-static/5a8d061a2d112c6f96767e82d68bd87fc208e7a7.jpg@360w_480h.jpg");
     }
 
     .type-title{
