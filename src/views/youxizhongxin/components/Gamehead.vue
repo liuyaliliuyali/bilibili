@@ -1,6 +1,7 @@
 <template>
     <div class="head">
         <div class="head-first">
+
         </div>
         <div class="head-second">
             <div class="trundle">
@@ -60,10 +61,11 @@
     .head{
 
         width: 100%;
-        height: 460px;
+        height: 459px;
         top: 0;
         left: 0;
     }
+
     .head-first{
         border: 1px solid red;
         width: 100%;
@@ -72,6 +74,8 @@
         left: 0;
         background: #fff;
     }
+
+
     .head-second{
         position: relative;
         width: 100%;
@@ -97,7 +101,6 @@
         background: url("../bilibili游戏中心/mainmenu-ul-180523.jpg");
     }
     .bg1{
-        border: 1px solid red;
         position: absolute;
         height: 109px;
         width: 330px;
@@ -107,7 +110,6 @@
         background: url("../bilibili游戏中心/mainmenu-a-180523.jpg");
     }
     .bg2{
-        border: 1px solid red;
         position: absolute;
         height: 109px;
         width: 330px;
@@ -117,7 +119,6 @@
         background: url("../bilibili游戏中心/mainmenu-a-180523.jpg");
     }
     .bg3{
-        border: 1px solid red;
         position: absolute;
         height: 109px;
         width: 330px;
