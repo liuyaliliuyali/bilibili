@@ -5,6 +5,8 @@
         <manhua-nav></manhua-nav>
         <manhua-recommend></manhua-recommend>
         <manhua-rank></manhua-rank>
+        <manhua-message></manhua-message>
+        <manhua-bottom></manhua-bottom>
     </div>
 </template>
 
@@ -14,9 +16,11 @@
     import ManhuaNav from "./components/ManhuaNav";
     import ManhuaRecommend from "./components/ManhuaRecommend";
     import ManhuaRank from "./components/ManhuaRank";
+    import ManhuaMessage from "./components/ManhuaMessage";
+    import ManhuaBottom from "./components/ManhuaBottom";
     export default {
         name: "Manhua",
-        components: {ManhuaRank, ManhuaRecommend, ManhuaHeader, ManhuaNav, ManhuaSwiper}
+        components: {ManhuaBottom, ManhuaMessage, ManhuaRank, ManhuaRecommend, ManhuaHeader, ManhuaNav, ManhuaSwiper}
     }
 </script>
 
