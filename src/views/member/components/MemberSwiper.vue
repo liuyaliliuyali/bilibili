@@ -7,6 +7,18 @@
             <el-carousel-item>
                 <img src="../../../CSS-member/swiper2.jpeg"  width="100%"/>
             </el-carousel-item>
+            <el-carousel-item>
+                <img src="../../../CSS-member/swiper3.jpeg"  width="100%"/>
+            </el-carousel-item>
+            <el-carousel-item>
+                <img src="../../../CSS-member/swiper4.jpeg"  width="100%"/>
+            </el-carousel-item>
+            <el-carousel-item>
+                <img src="../../../CSS-member/swiper5.jpeg"  width="100%"/>
+            </el-carousel-item>
+            <el-carousel-item>
+                <img src="../../../CSS-member/swiper6.jpeg"  width="100%"/>
+            </el-carousel-item>
         </el-carousel>
         <div class="member-writing">
             <div class="first">
