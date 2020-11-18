@@ -5,8 +5,8 @@
         <manhua-nav></manhua-nav>
         <manhua-recommend :dt="hot"></manhua-recommend>
         <manhua-rank :dt="rankData"></manhua-rank>
-        <manhua-hot></manhua-hot>
-        <manhua-message></manhua-message>
+        <manhua-hot :nw="new1" :ow="oneWeed" :ys="yishijie" :od="old"></manhua-hot>
+        <manhua-message v-for="(val,key) in mess" :dt="val" :ky="key"></manhua-message>
         <manhua-bottom></manhua-bottom>
     </div>
 </template>
@@ -29,7 +29,12 @@
         data(){
             return{
                 hot:[],
-                rankData:[]
+                rankData:[],
+                new1:[],
+                oneWeed:[],
+                yishijie:[],
+                old:[],
+                mess:{}
             }
         },
         created() {
@@ -38,6 +43,12 @@
                 const dt = res.data.data
                 this.hot = dt.hot
                 this.rankData = dt.rankData
+                this.new1 = dt.new1
+                this.oneWeed = dt.oneWeed
+                this.yishijie = dt.yishijie
+                this.mess = dt.mess
+
+                this.old = dt.old
             }).catch((error) => {
                 console.log('请求失败！')
             })

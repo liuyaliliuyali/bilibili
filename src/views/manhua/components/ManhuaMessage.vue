@@ -2,38 +2,13 @@
     <div class="manhua-message">
         <div class="container">
             <div class="title">
-                <span>热门速递</span>
+                <span>{{ ky }}</span>
             </div>
             <div class="main">
-                <div class="type">
-                    <a href="#"></a>
-                    <div class="type-title">原来我是恋爱游戏里的工具</div>
-                    <span style="font-size: 12px;color: #999999">后宫 搞笑 奇幻</span>
-                </div>
-                <div class="type">
-                    <a href="#"></a>
-                    <div class="type-title">到了30岁还是童贞的话，好像就会变成魔法使</div>
-                    <span style="font-size: 12px;color: #999999">恋爱</span>
-                </div>
-                <div class="type">
-                    <a href="#"></a>
-                    <div class="type-title">本剑仙绝不吃软饭</div>
-                    <span style="font-size: 12px;color: #999999">玄幻 搞笑 都市</span>
-                </div>
-                <div class="type">
-                    <a href="#"></a>
-                    <div class="type-title">百炼成神</div>
-                    <span style="font-size: 12px;color: #999999">奇幻 热血</span>
-                </div>
-                <div class="type">
-                    <a href="#"></a>
-                    <div class="type-title">我独自盗墓</div>
-                    <span style="font-size: 12px;color: #999999">热血 冒险 奇幻</span>
-                </div>
-                <div class="type">
-                    <a href="#"></a>
-                    <div class="type-title">废女妖神</div>
-                    <span style="font-size: 12px;color: #999999">古风 恋爱 玄幻</span>
+                <div class="type" v-for="item in dt">
+                    <a href="#" :style="{backgroundImage:'url('+item.imgUrl+')'}"></a>
+                    <div class="type-title">{{item.title}}</div>
+                    <span style="font-size: 12px;color: #999999">{{item.tag}}</span>
                 </div>
             </div>
         </div>
@@ -42,7 +17,8 @@
 
 <script>
     export default {
-        name: "ManhuaMessage"
+        name: "ManhuaMessage",
+        props:['dt','ky']
     }
 </script>
 
@@ -58,7 +34,7 @@
         display: inline-block;
         font-size: 32px;
         line-height: 45px;
-        padding: 60px 0 16px;
+        padding: 30px 0 20px;
         color: rgba(0,0,0,.87);
     }
 
