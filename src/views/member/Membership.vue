@@ -1,8 +1,9 @@
 <template>
     <div>
-        <member-swiper></member-swiper>
         <member-nav></member-nav>
+        <member-swiper></member-swiper>
         <MemberCenter></MemberCenter>
+        <MemberFooter></MemberFooter>
     </div>
 </template>
 
@@ -10,9 +11,10 @@
     import memberSwiper from "./components/MemberSwiper";
     import MemberNav from "./components/MemberNav";
     import MemberCenter from "./components/MemberCenter";
+    import MemberFooter from "./components/MemberFooter";
     export default {
         name: "member",
-        components: {MemberCenter, MemberNav, memberSwiper}
+        components: {MemberFooter, MemberCenter, MemberNav, memberSwiper}
     }
 </script>
 

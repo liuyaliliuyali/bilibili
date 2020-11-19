@@ -1,0 +1,382 @@
+{
+  "ret": true,
+  "data": {
+    "hot": [{
+        "id": "0001",
+        "title": "原来我是恋爱游戏里的工具",
+        "imgUrl": "//i0.hdslb.com/bfs/manga-static/a7dc676429bf6342e5d275a7b797465651165d4f.jpg@360w_480h.jpg",
+        "tag": "后宫 搞笑 奇幻"
+      },{
+      "id": "0002",
+      "title": "到了30岁还是童贞的话，好像就会变成魔法使",
+      "imgUrl": "//i0.hdslb.com/bfs/manga-static/0e1c13d444d30e3cf192a853d3b87011b7ed4073.jpg@360w_480h.jpg",
+      "tag": "恋爱"
+    },{
+      "id": "0003",
+      "title": "本剑仙绝不吃软饭",
+      "imgUrl": "//i0.hdslb.com/bfs/manga-static/5d065f26899dc31eb8fec4be4f8ca85a804e0a06.jpg@360w_480h.jpg",
+      "tag": "玄幻 搞笑 都市"
+    },{
+      "id": "0004",
+      "title": "百炼成神",
+      "imgUrl": "//i0.hdslb.com/bfs/manga-static/bbd258a4123ddf8631727e3337dc2a5c99d2f087.jpg@360w_480h.jpg",
+      "tag": "奇幻 热血"
+    },{
+      "id": "0005",
+      "title": "我独自盗墓",
+      "imgUrl": "//i0.hdslb.com/bfs/manga-static/9042fb75ddd325061fa4c221ac203e7a3b8c186f.jpg@360w_480h.jpg",
+      "tag": "热血 冒险 奇幻"
+    },{
+      "id": "0006",
+      "title": "废女妖神",
+      "imgUrl": "//i0.hdslb.com/bfs/manga-static/5a8d061a2d112c6f96767e82d68bd87fc208e7a7.jpg@360w_480h.jpg",
+      "tag": "古风 恋爱 玄幻"
+    },{
+      "id": "0007",
+      "title": "咒术回战",
+      "imgUrl": "https://i0.hdslb.com/bfs/manga-static/9263db81517151952ac190b2484d8342aedea88e.jpg@360w_480h.jpg",
+      "tag": "冒险 奇幻 热血"
+    },{
+      "id": "0008",
+      "title": "天官赐福",
+      "imgUrl": "//i0.hdslb.com/bfs/manga-static/1cecbe6033d31cc9a49f4c1df88258a0abf72e07.jpg@360w_480h.jpg",
+      "tag": "古风 纯爱"
+    },{
+      "id": "0009",
+      "title": "骷髅骑士没能守住副本",
+      "imgUrl": "//i0.hdslb.com/bfs/manga-static/f15b50b67b85c374371d9019ae87f0cdffe42609.jpg@360w_480h.jpg",
+      "tag": "热血 搞笑 奇幻"
+    },{
+      "id": "0010",
+      "title": "无能的奈奈",
+      "imgUrl": "//i0.hdslb.com/bfs/manga-static/88c2693280451ed8a3c51b1626a986aab1a95eaf.jpg@360w_480h.jpg",
+      "tag": "校园"
+    },{
+      "id": "0011",
+      "title": "我家大师兄脑子有坑",
+      "imgUrl": "//i0.hdslb.com/bfs/manga-static/2dfdb4232707c24948c2adc4aed7c2aa0fa62c2c.jpg@360w_480h.jpg",
+      "tag": "古风 搞笑 玄幻"
+    },{
+      "id": "0012",
+      "title": "租借女友",
+      "imgUrl": "//i0.hdslb.com/bfs/manga-static/b893b7ed44f469a29b247d3962047f2e81649adc.jpg@180w_240h.jpg",
+      "tag": "恋爱 日常 后宫"
+    }
+    ],
+    "rankData": [{
+      "id": "0001",
+      "title": "鬼灭之刃",
+      "imgUrl": "//i0.hdslb.com/bfs/manga-static/932a161a0408311e835c11ef5e04b6807abf5f2e.jpg@180w_240h.jpg",
+      "number":  "../../../CSS-manhua/3.png"
+    },{
+      "id": "0002",
+      "title": "Chainsaw Man",
+      "imgUrl": "https://i0.hdslb.com/bfs/manga-static/cb5d87ebeb2c7bc3289c8045f9669841368b1cb4.jpg@180w_240h.jpg",
+      "number": "../../../CSS-manhua/3.png"
+    },{
+      "id": "0003",
+      "title": "总之就是非常可爱",
+      "imgUrl": "https://i0.hdslb.com/bfs/manga-static/8ef251dc8bb4e6d5cabc33d033c23ef608e629ce.jpg@180w_240h.jpg",
+      "number": "../../../CSS-manhua/4.png"
+    },{
+      "id": "0004",
+      "title": "航海王",
+      "imgUrl": "https://i0.hdslb.com/bfs/manga-static/20cb2eca4566f48dabed520598af106352e8a050.jpg@180w_240h.jpg",
+      "number": "../../../CSS-manhua/5.png"
+    },{
+      "id": "0005",
+      "title": "到了30岁还是童贞的话，好像就会变成魔法使",
+      "imgUrl": "//i0.hdslb.com/bfs/manga-static/0e1c13d444d30e3cf192a853d3b87011b7ed4073.jpg@360w_480h.jpg",
+      "number": "../../../CSS-manhua/6.png"
+    },{
+      "id": "0006",
+      "title": "租借女友",
+      "imgUrl": "//i0.hdslb.com/bfs/manga-static/b893b7ed44f469a29b247d3962047f2e81649adc.jpg@180w_240h.jpg",
+      "number": "../../../CSS-manhua/7.png"
+    },{
+      "id": "0001",
+      "title": "一拳超人",
+      "imgUrl": "https://i0.hdslb.com/bfs/manga-static/accd35013c082cb622fb8749c86aec3bd4fb9253.jpg@180w_240h.jpg",
+      "number": "../../../CSS-manhua/8.png"
+    },{
+      "id": "0002",
+      "title": "辉夜大小姐想让我告白 ~天才们的恋爱头脑战~",
+      "imgUrl": "https://i0.hdslb.com/bfs/manga-static/f58f9395b7d468365a909529563593546de024bd.jpg@180w_240h.jpg",
+      "number": "../../../CSS-manhua/9.png"
+    }
+    ],
+    "new1": [
+        {
+          "id": 1,
+          "Img": "//i0.hdslb.com/bfs/manga-static/cb5e60375c197f839b6106f9cd10df9f010c9918.jpg@720w_360h.jpg",
+          "name": "后宫太多，只好飞升了",
+          "tag": "两界后宫一起上，今晚仙师先要谁？！"
+        },
+        {
+          "id": 2,
+          "Img": "https://i0.hdslb.com/bfs/manga-static/90d6798eb320fe3ba381b6658cf0de2784f55447.jpg@720w_360h.jpg",
+          "name": "Chainsaw Man",
+          "tag": "更新至 93 话"
+        },
+        {
+          "id": 3,
+          "Img": "https://i0.hdslb.com/bfs/manga-static/1f4951e71b1980af58b3c4816eb302b6bd95908a.jpg@720w_360h.jpg",
+          "name": "整个修真界的妹子都想抓我",
+          "tag": "妹子们，休想抓我当练功器！"
+        },
+        {
+          "id": 4,
+          "Img": "//i0.hdslb.com/bfs/manga-static/07086f8cc3b2cbbf39bfb2e2e15b5d027905407e.jpg@720w_360h.jpg",
+          "name": "全球高考",
+          "tag": "两位大佬对着骚"
+        },
+        {
+          "id": 5,
+          "Img": "//i0.hdslb.com/bfs/manga-static/a3687bde4ad1fcb384b970946bbb7dd4a094d686.jpg@720w_360h.jpg",
+          "name": "最强魔君的我，突然变小了?!",
+          "tag": "最强魔君变身可爱小正太?!"
+        },
+        {
+          "id": 6,
+          "Img": "//i0.hdslb.com/bfs/manga-static/5bbb5e3189b23b2514121d113a54eb3e3e690b74.jpg@720w_360h.jpg",
+          "name": "修炼成仙的我只想养成女徒弟",
+          "tag": "养成女徒弟最有意思啦！"
+        },
+        {
+          "id": 7,
+          "Img": "//i0.hdslb.com/bfs/manga-static/74d8f18b6515b2110ff724363762f14e87e54027.jpg@720w_360h.jpg",
+          "name": "皇上别闹",
+          "tag": "不怕转世，只怕忘了你。"
+        },
+        {
+          "id": 8,
+          "Img": "https://i0.hdslb.com/bfs/manga-static/5af5af141ee576f396cdafec042d6e16f519e058.jpg@720w_360h.jpg",
+          "name": "全员恶玉",
+          "tag": "更新至 7 话"
+        }
+      ],
+      "oneWeed": [{
+        "id": 1,
+        "Img": "https://i0.hdslb.com/bfs/manga-static/a32297b17b47c9a43334348759d75d4c2d9f737e.jpg@720w_360h.jpg",
+        "name": "咒术回战",
+        "tag": "更新至 番外"
+      },{
+        "id": 2,
+        "Img": "//i0.hdslb.com/bfs/manga-static/633a2f41f5c0fff80c01b952a4c29468576e4545.jpg@720w_360h.jpg",
+        "name": "碧蓝之海",
+        "tag": "更新至 65 话"
+      },{
+        "id": 3,
+        "Img": "//i0.hdslb.com/bfs/manga-static/6278f901f13ae4e1da482578e7e7046930db3cea.jpg@720w_360h.jpg",
+        "name": "不小心救了江湖公敌",
+        "tag": "救了江湖公敌现在杀还来得及吗？"
+      },{
+        "id": 4,
+        "Img": "//i0.hdslb.com/bfs/manga-static/fc4e4477d74121ea857ecb3dfde8da9419b6a1c6.jpg@720w_360h.jpg",
+        "name": "文豪野犬",
+        "tag": "更新至 第88话"
+      },{
+        "id": 5,
+        "Img": "https://i0.hdslb.com/bfs/manga-static/1f4951e71b1980af58b3c4816eb302b6bd95908a.jpg@720w_360h.jpg",
+        "name": "整个修真界的妹子都想抓我",
+        "tag": "妹子们，休想抓我当练功器！"
+      },{
+        "id": 6,
+        "Img": "//i0.hdslb.com/bfs/manga-static/e2106173adba000920b2ce2809194dcb61bbd8a2.jpg@720w_360h.jpg",
+        "name": "社交温度",
+        "tag": "我爱上了我最讨厌的那个他。"
+      },{
+        "id": 7,
+        "Img": "//i0.hdslb.com/bfs/manga-static/4b6947cc133b140a4510d219858f338bc61f71a5.jpg@720w_360h.jpg",
+        "name": "游戏加载中",
+        "tag": "更新至 016 话"
+      },{
+        "id": 8,
+        "Img": "//i0.hdslb.com/bfs/manga-static/b270ff9798d8ae9f3b358b20d968d56e6f447185.png@720w_360h.png",
+        "name": "我家大师兄脑子有坑",
+        "tag": "更新至 429 话"
+      }
+      ],
+    "yishijie": [{
+      "id": 1,
+      "Img": "//i0.hdslb.com/bfs/manga-static/7c5eb8a02139c91d502149ff4f5618f253f3ed21.jpg@720w_360h.jpg",
+      "name": "我不是大魔王",
+      "tag": "高中生转生异世界化身灭世魔王？！"
+    },{
+      "id": 2,
+      "Img": "//i0.hdslb.com/bfs/manga-static/d8b732af2effdb8579f88cb9bca892cf994ee684.png@720w_360h.png",
+      "name": "网购技能开启异世界美食之旅",
+      "tag": "冒险 美食 奇幻 搞笑 日常"
+    },{
+      "id": 3,
+      "Img": "//i0.hdslb.com/bfs/manga-static/e3d520ff91604295c504253229959412a1da9ad5.jpg@720w_360h.jpg",
+      "name": "四格勇士：拯救世界后不是应该娶公主吗？",
+      "tag": "搞笑 奇幻"
+    },{
+      "id": 4,
+      "Img": "//i0.hdslb.com/bfs/manga-static/7281f142002bcfb41ac1c4c2c1821383ab07f26a.jpg@720w_360h.jpg",
+      "name": "从今天开始当城主",
+      "tag": "奇幻 后宫 冒险"
+    },{
+      "id": 5,
+      "Img": "//i0.hdslb.com/bfs/manga-static/e8cd3b313be65ce1c046507abfcffdea4427ea69.png@720w_360h.png",
+      "name": "平凡职业造就世界最强",
+      "tag": "冒险 热血 奇幻"
+    },{
+      "id": 6,
+      "Img": "//i0.hdslb.com/bfs/manga-static/178d99cd76c2a418389bd469598ca96b802eaa01.jpg@720w_360h.jpg",
+      "name": "派遣战斗员",
+      "tag": "冒险 搞笑"
+    },{
+      "id": 7,
+      "Img": "//i0.hdslb.com/bfs/manga-static/1c09d18862113a27de0858df301f6af24f754d4b.png@720w_360h.png",
+      "name": "石纪元（Dr.Stone)",
+      "tag": "冒险 科幻 热血"
+    },{
+      "id": 8,
+      "Img": "//i0.hdslb.com/bfs/manga-static/60186b241480c485c0546fe8b0d042ed61d4fe90.jpg@720w_360h.jpg",
+      "name": "关于我转生变成史莱姆这档事",
+      "tag": "冒险 奇幻"
+    }
+    ],
+    "old": [{
+      "id": 1,
+      "Img": "//i0.hdslb.com/bfs/manga-static/bfe75930fb29aaf5ac5c29e9e89fbc67a7f39ba6.png@720w_360h.png",
+      "name": "犬夜叉（WIDE版）",
+      "tag": "冒险 搞笑 恋爱"
+    },{
+      "id": 2,
+      "Img": "//i0.hdslb.com/bfs/manga-static/b10faa75654ab5ad9115b1d7811b276dd1297106.jpg@720w_360h.jpg",
+      "name": "黑执事",
+      "tag": "推理 悬疑 奇幻"
+    },{
+      "id": 3,
+      "Img": "//i0.hdslb.com/bfs/manga-static/58f703c8ac32fdbbc928e26585bcf6ff0f7e9528.png@720w_360h.png",
+      "name": "精灵宝可梦",
+      "tag": "冒险 热血"
+    },{
+      "id": 4,
+      "Img": "//i0.hdslb.com/bfs/manga-static/64911da99529199ae776d68ebe09ced3738a6e90.png@720w_360h.png",
+      "name": "新网球王子",
+      "tag": "热血 校园 运动"
+    },{
+      "id": 5,
+      "Img": "//i0.hdslb.com/bfs/manga-static/cf8297a31bb28c80e02402fce07ffea8b037e3a5.jpg@720w_360h.jpg",
+      "name": "网球王子",
+      "tag": "热血 校园 运动"
+    },{
+      "id": 6,
+      "Img": "//i0.hdslb.com/bfs/manga-static/dd500100a1a184b1320b7b88d7d3f62ca08cb94d.jpg@720w_360h.jpg",
+      "name": "彩云国物语",
+      "tag": "古风 恋爱"
+    },{
+      "id": 7,
+      "Img": "//i0.hdslb.com/bfs/manga-static/403ac0ac21c3720fad22b40f5ecb9ee01451c1be.png@720w_360h.png",
+      "name": "名侦探柯南",
+      "tag": "悬疑 推理 搞笑"
+    },{
+      "id": 8,
+      "Img": "//i0.hdslb.com/bfs/manga-static/3b7833ecffd227b70136d0f388b041bb9ba9f417.jpg@720w_360h.jpg",
+      "name": "STEEL BALL RUN（乔乔的奇妙冒险第7部）",
+      "tag": "热血 冒险 剧情"
+    }
+    ],
+    "mess": {
+      "搞笑爆漫": [
+        {
+          "id": "0001",
+          "title": "女装大佬养成记",
+          "imgUrl": "//i0.hdslb.com/bfs/manga-static/995903858b63a4c94a3caff18acf5619d7d03565.jpg@720w_360h.jpg",
+          "tag": "更新至 420 话"
+        },{
+          "id": "0002",
+          "title": "神赐予我这种尴尬的超能力究竟有什么用？",
+          "imgUrl": "//i0.hdslb.com/bfs/manga-static/1fe1f6c61ad37dc131160d23948558d6238dd0f3.jpg@720w_360h.jpg",
+          "tag": "更新至 041 话"
+        },{
+          "id": "0003",
+          "title": "我的老婆是妲己",
+          "imgUrl": "//i0.hdslb.com/bfs/manga-static/8f8f321101ce6991f4ebc9d2892fea107fcec4a1.jpg@720w_360h.jpg",
+          "tag": "更新至 165 话"
+        },{
+          "id": "0004",
+          "title": "古见同学有交流障碍症",
+          "imgUrl": "https://i0.hdslb.com/bfs/manga-static/1eca3dcab58a572845d1fcd5d6c3dc9ceda9bff9.jpg@720w_360h.jpg",
+          "tag": "更新至 278 话"
+        },{
+          "id": "0005",
+          "title": "不要欺负我，长瀞同学",
+          "imgUrl": "//i0.hdslb.com/bfs/manga-static/4aa7b6c39b88ce9bf85e946982ebd1e832805107.jpg@720w_360h.jpg",
+          "tag": "更新至 71 话"
+        },{
+          "id": "0006",
+          "title": "快把我哥带走",
+          "imgUrl": "//i0.hdslb.com/bfs/manga-static/786fdfa146659d41c3c7dbd0b7ccc6deda8a84f0.png@720w_360h.png",
+          "tag": "更新至 244 话"
+        }],
+      "冒险传说": [{
+        "id": "0001",
+        "imgUrl": "//i0.hdslb.com/bfs/manga-static/bfe75930fb29aaf5ac5c29e9e89fbc67a7f39ba6.png@720w_360h.png",
+        "title": "犬夜叉（WIDE版）",
+        "tag": "[完结] 共 589 话"
+      },{
+        "id": "0002",
+        "title": "拳愿阿修罗",
+        "imgUrl": "//i0.hdslb.com/bfs/manga-static/ab4a4611237a4a32084e60bd45b3293641beffb6.jpg@720w_360h.jpg",
+        "tag": "[完结] 共 253 话"
+      },{
+        "id": "0003",
+        "title": "龙珠",
+        "imgUrl": "https://i0.hdslb.com/bfs/manga-static/7b5bd977824adf39a8c62ad05f1fccfd1778bc8f.jpg@720w_360h.jpg",
+        "tag": "[完结] 共 543 话"
+      },{
+        "id": "0004",
+        "title": "勇者死了！因为勇者掉进了我这个村民挖的陷阱里。",
+        "imgUrl": "//i0.hdslb.com/bfs/manga-static/96911db472abe320d5fb0ed67fbd385cf1635e7d.jpg@720w_360h.jpg",
+        "tag": "更新至 201-2"
+      },{
+        "id": "0005",
+        "title": "异常生物见闻录",
+        "imgUrl": "//i0.hdslb.com/bfs/manga-static/ea0e9d2a8a36136c0ef37b51277c136859687db0.jpg@720w_360h.jpg",
+        "tag": "更新至 122 话"
+      },{
+        "id": "0006",
+        "title": "终结的炽天使",
+        "imgUrl": "//i0.hdslb.com/bfs/manga-static/f3c1f383b031ebba8bdbba8a0cda6ba9472e62eb.jpg@720w_360h.jpg",
+        "tag": "更新至 96 话"
+      }
+      ],
+      "恋爱物语": [{
+        "id": "0001",
+        "title": "大姐养你呀",
+        "imgUrl": "//i0.hdslb.com/bfs/manga-static/f36b3020f4f81ae36ec377316db56e7a6c1d19e1.jpg@720w_360h.jpg",
+        "tag": "更新至 244 话"
+      },{
+        "id": "0002",
+        "title": "野良神",
+        "imgUrl": "//i0.hdslb.com/bfs/manga-static/7549be51fe134afb833e29a98b29d991db60f441.jpg@720w_360h.jpg",
+        "tag": "更新至 91 话"
+      },{
+        "id": "0003",
+        "title": "我的微信连三界",
+        "imgUrl": "//i0.hdslb.com/bfs/manga-static/5d065f26899dc31eb8fec4be4f8ca85a804e0a06.jpg@360w_480h.jpg",
+        "tag": "更新至 291 话"
+      },{
+        "id": "0004",
+        "title": "渡君的XX即将崩坏",
+        "imgUrl": "//i0.hdslb.com/bfs/manga-static/d115cb86206cc2431ab61ce50a8961a99bb522e5.jpg@720w_360h.jpg",
+        "tag": "更新至 56 话"
+      },{
+        "id": "0005",
+        "title": "捕获宠物娘的正确方法",
+        "imgUrl": "//i0.hdslb.com/bfs/manga-static/5bf578549823410e638bd950345327ef7203db08.png@720w_360h.png",
+        "tag": "更新至 065 话"
+      },{
+        "id": "0006",
+        "title": "徒然喜欢你",
+        "imgUrl": "//i0.hdslb.com/bfs/manga-static/37728350c5862fddb7ce85eaab9d7722a3c8a160.jpg@720w_360h.jpg",
+        "tag": "[完结] 共 212 话"
+      }]
+    }
+  }
+}

@@ -34,69 +34,13 @@
                     </div>
                 </div>
                 <div class="others">
-                    <a href="#">
-                        <div class="others-img">
+                    <a href="#" v-for="item in dt">
+                        <div class="others-img" :style="{backgroundImage:'url('+item.imgUrl+')'}">
                             <div class="img-bg">
-                                <img src="../../../CSS-manhua/2.png" height="40" width="22"/>
+                                <img v-bind:src="item.number" height="40" width="22"/>
                             </div>
                         </div>
-                        <div class="others-title">鬼灭之刃</div>
-                    </a>
-                    <a href="#">
-                        <div class="others-img">
-                            <div class="img-bg">
-                                <img src="../../../CSS-manhua/2.png" height="40" width="22"/>
-                            </div>
-                        </div>
-                        <div class="others-title">鬼灭之刃</div>
-                    </a>
-                    <a href="#">
-                        <div class="others-img">
-                            <div class="img-bg">
-                                <img src="../../../CSS-manhua/2.png" height="40" width="22"/>
-                            </div>
-                        </div>
-                        <div class="others-title">鬼灭之刃</div>
-                    </a>
-                    <a href="#">
-                        <div class="others-img">
-                            <div class="img-bg">
-                                <img src="../../../CSS-manhua/2.png" height="40" width="22"/>
-                            </div>
-                        </div>
-                        <div class="others-title">鬼灭之刃</div>
-                    </a>
-                    <a href="#">
-                        <div class="others-img">
-                            <div class="img-bg">
-                                <img src="../../../CSS-manhua/2.png" height="40" width="22"/>
-                            </div>
-                        </div>
-                        <div class="others-title">鬼灭之刃</div>
-                    </a>
-                    <a href="#">
-                        <div class="others-img">
-                            <div class="img-bg">
-                                <img src="../../../CSS-manhua/7.png" height="40" width="22"/>
-                            </div>
-                        </div>
-                        <div class="others-title">辉夜大小姐想让我告白 ~天才们的恋爱头脑战~</div>
-                    </a>
-                    <a href="#">
-                        <div class="others-img">
-                            <div class="img-bg">
-                                <img src="../../../CSS-manhua/2.png" height="40" width="22"/>
-                            </div>
-                        </div>
-                        <div class="others-title">鬼灭之刃</div>
-                    </a>
-                    <a href="#">
-                        <div class="others-img">
-                            <div class="img-bg">
-                                <img src="../../../CSS-manhua/2.png" height="40" width="22"/>
-                            </div>
-                        </div>
-                        <div class="others-title">鬼灭之刃</div>
+                        <div class="others-title">{{item.title}}</div>
                     </a>
                 </div>
             </div>
@@ -107,6 +51,7 @@
 <script>
     export default {
         name: "ManhuaRank",
+        props:['dt'],
         data() {
             return {
                 activeIndex: '1',
@@ -199,6 +144,7 @@
         display: inline-block;
         padding: 0 5px;
         flex: 1;
+        text-decoration: none;
     }
     .others-img{
         height: 180px;

@@ -97,46 +97,46 @@
                     price:47
                 },{
                     id:1,
-                    url:"//i0.hdslb.com/bfs/openplatform/202010/xtVUZVqA1602844337833.jpeg@350w_466h.jpeg",
-                    name:'苏州·萤火跨年盛典',
-                    date:'📅 2021.01.01 - 01.01',
-                    address:'📍 苏州市 天虹商业购物中心',
+                    url:"//i1.hdslb.com/bfs/openplatform/202010/94KLG7gM1603684138101.jpeg@350w_466h.jpeg",
+                    name:'洛阳·零次元·DIMENSION ZERO8.1',
+                    date:'📅 2021.02.16 - 02.16',
+                    address:'📍 洛阳市 洛阳会展中心',
+                    price:45
+                },{
+                    id:1,
+                    url:"//i2.hdslb.com/bfs/openplatform/202011/nYVgskWN1604475717500.jpeg@350w_466h.jpeg",
+                    name:'普宁·炎音漫展4.0Plus',
+                    date:'📅 2021.12.20 - 12.20',
+                    address:'📍 揭阳市 康莱酒店',
+                    price:40
+                },{
+                    id:1,
+                    url:"//i2.hdslb.com/bfs/openplatform/202011/qcqHwEVP1605366832927.jpeg@350w_466h.jpeg",
+                    name:'北京·萤火虫IDO国际动漫游戏嘉年华2nd',
+                    date:'📅 2021.01.01 - 01.03',
+                    address:'📍 北京市 北京亦创国际会展中心',
+                    price:77
+                },{
+                    id:1,
+                    url:"//i1.hdslb.com/bfs/openplatform/202010/i5LgT3Nu1603794694377.jpeg@350w_466h.jpeg",
+                    name:'西安·第十届梦乡动漫展',
+                    date:'📅 2021.02.18 - 02.21',
+                    address:'📍 西安市 中国唐苑会展中心',
                     price:47
                 },{
                     id:1,
-                    url:"//i0.hdslb.com/bfs/openplatform/202010/xtVUZVqA1602844337833.jpeg@350w_466h.jpeg",
-                    name:'苏州·萤火跨年盛典',
-                    date:'📅 2021.01.01 - 01.01',
-                    address:'📍 苏州市 天虹商业购物中心',
-                    price:47
+                    url:"//i0.hdslb.com/bfs/openplatform/202010/f2cZ5eWg1603349401972.jpeg@350w_466h.jpeg",
+                    name:'重庆·第六届梦乡动漫展',
+                    date:'📅 2021.01.30 - 01.31',
+                    address:'📍 重庆市 南坪国际会议展览中心 ',
+                    price:58
                 },{
                     id:1,
-                    url:"//i0.hdslb.com/bfs/openplatform/202010/xtVUZVqA1602844337833.jpeg@350w_466h.jpeg",
-                    name:'苏州·萤火跨年盛典',
+                    url:"//i2.hdslb.com/bfs/openplatform/202010/iI9ehPRg1603877746479.jpeg@350w_466h.jpeg",
+                    name:'阳江·结缘纪国风动漫盛典2nd',
                     date:'📅 2021.01.01 - 01.01',
-                    address:'📍 苏州市 天虹商业购物中心',
-                    price:47
-                },{
-                    id:1,
-                    url:"//i0.hdslb.com/bfs/openplatform/202010/xtVUZVqA1602844337833.jpeg@350w_466h.jpeg",
-                    name:'苏州·萤火跨年盛典',
-                    date:'📅 2021.01.01 - 01.01',
-                    address:'📍 苏州市 天虹商业购物中心',
-                    price:47
-                },{
-                    id:1,
-                    url:"//i0.hdslb.com/bfs/openplatform/202010/xtVUZVqA1602844337833.jpeg@350w_466h.jpeg",
-                    name:'苏州·萤火跨年盛典',
-                    date:'📅 2021.01.01 - 01.01',
-                    address:'📍 苏州市 天虹商业购物中心',
-                    price:47
-                },{
-                    id:1,
-                    url:"//i0.hdslb.com/bfs/openplatform/202010/xtVUZVqA1602844337833.jpeg@350w_466h.jpeg",
-                    name:'苏州·萤火跨年盛典',
-                    date:'📅 2021.01.01 - 01.01',
-                    address:'📍 苏州市 天虹商业购物中心',
-                    price:47
+                    address:'📍 阳江市 碧桂园凤凰酒店',
+                    price:34.2
                 },]
             }
         },
@@ -152,7 +152,7 @@
     }
     .frame {
         width: 100%;
-        height: 1200px;
+        height: 2850px;
         background-color: #F4F5F7;
         /*position: relative;*/
     }
@@ -192,11 +192,11 @@
         font-size: 15px;
         color: #99a9bf;
     }
-    .one p:-of-type {
+    .one p:first-of-type{
         font-size: 18px;
         padding-bottom: 20px;
         color: #212121;
-        padding-top: 20pfistx;
+        padding-top: 20px;
     }
     .one p:last-of-type {
         font-size: 26px;

@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Manhua from "../views/manhua/Manhua";
 import Membership from "../views/member/Membership";
+import match from "../views/match/match";
 import Youxizhongxin from "../views/youxizhongxin/Youxizhongxin";
 import Fanju from "../views/fanju/Fanju";
 
@@ -18,6 +19,12 @@ const routes = [
     name: 'Membership',
     component: Membership
   },
+  {
+    path:'/match',
+    name:'match',
+    component:match
+  },
+
   {
     path: '/fanju',
     name: 'Fanju',

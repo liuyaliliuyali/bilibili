@@ -5,7 +5,7 @@
                 <img src="../../../CSS-manhua/logo-1.png" height="32" width="32"/>
                 <span>哔哩哔哩漫画</span>
                 <a href="#"> <i class="left-icon"></i> 主站</a>
-                <a href="#">首页</a>
+                <a href="#" style="color: #32AAFF">首页</a>
                 <a href="#">分类</a>
                 <a href="#">排行榜</a>
                 <a href="#">更新</a>
@@ -15,7 +15,6 @@
                 <a href="#">下载APP</a>
                 <a href="#">历史</a>
                 <a href="#">追漫</a>
-                <div class="user"></div>
             </div>
         </div>
     </div>
@@ -24,6 +23,7 @@
 <script>
     export default {
         name: "ManhuaHeader"
+
     }
 </script>
 
