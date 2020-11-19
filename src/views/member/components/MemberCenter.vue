@@ -16,6 +16,13 @@
                     </p>
                 </div>
             </div>
+            <div class="block">
+                <el-pagination
+                        background="transparent"
+                        layout="prev, pager, next"
+                        :total="100">
+                </el-pagination>
+            </div>
         </div>
     </div>
 </template>
@@ -144,6 +151,10 @@
 </script>
 
 <style scoped>
+    .block{
+        margin: 18px auto;
+    }
+
     .container {
         width: 1160px;
         margin: 0 auto;

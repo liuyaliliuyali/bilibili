@@ -6,7 +6,7 @@
                 <div class="nav-header-logo" > </div>
                 <div class="icon nav-header-tv-icon"></div>
                 <div data-v-7becb7b9="" class="nav-header-mainsite">
-                    主站
+                   <a href="#">主站</a>
                 </div>
                 <div data-v-7becb7b9="" class="nav-header-search-bar-wrapper">
                     <input data-v-7becb7b9="" placeholder="活动、嘉宾、场馆" type="text" name="" class="nav-header-search-bar">

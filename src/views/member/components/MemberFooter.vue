@@ -40,7 +40,7 @@
                             width: 100px;
                             height: 80px;">
                 </div>
-                <div style="font-size: 14px;color:#99a2aa;margin-left: 10px;">
+                <div style="font-size:14px;color:#99a2aa;margin-left: 10px;">
                     <p>
                         广播电视节目制作经营许可证：（沪）字第1248号 沪网文[2013]0480-056号 | 信息网络传播视听节目许可证：0910417互联网ICP备案：沪ICP备13002172号-3 沪ICP证：沪B2-20100043 | 违法不良信息举报邮箱：help@bilibili.com | 违法不良信息举报电话：4000233233 转 3 ｜营业执照
                     </p>
@@ -115,6 +115,6 @@
         display: flex;
         width: 1160px;
         margin: 0 auto;
-        margin-top: 20px;
+        margin-top: 10px;
     }
 </style>
