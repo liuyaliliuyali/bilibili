@@ -18,6 +18,15 @@
 </script>
 
 <style scoped>
+    .fanju-tag{
+        width: 1200px;
+        margin: 0 auto;
+
+    }
+    div{
+        display: block;
+    }
+
     .tag .title-clearfix{
         padding: 10px 0 20px;
     }

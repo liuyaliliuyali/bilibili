@@ -36,6 +36,14 @@
 </script>
 
 <style scoped>
+    .fanju-ban{
+        width: 1200px;
+        margin: 0 auto;
+
+    }
+    div{
+        display: block;
+    }
     .tag-list{
         overflow: hidden;
         margin-right: -10px;
@@ -47,6 +55,8 @@
     }
     .tag-list .tag-item .tag-a:hover{
         color:#00a1d6;
+        border: 1px solid #00a1d6;
+        border-radius: 12px;
     }
 
     .tag-list .tag-item.on{

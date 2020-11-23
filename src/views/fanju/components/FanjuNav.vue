@@ -22,6 +22,12 @@
 </script>
 
 <style scoped>
+
+    .fanju-nav{
+        width: 1200px;
+        margin: 20px auto;
+
+    }
     div{
         display: block;
     }
