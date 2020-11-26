@@ -1,5 +1,6 @@
 <template>
     <div>
+        <fanju-head></fanju-head>
         <fanju-nav></fanju-nav>
         <fanju-tag></fanju-tag>
         <fanju-ban></fanju-ban>
@@ -16,9 +17,10 @@
     import FanjuXin from "./components/FanjuXin";
     import FanjuTou from "./components/FanjuTou";
     import FanjuFoot from "./components/FanjuFoot";
+    import FanjuHead from "./components/FanjuHead";
     export default {
         name: "Fanju",
-        components: {FanjuFoot, FanjuTou, FanjuXin, FanjuBan, FanjuTag, FanjuNav}
+        components: {FanjuHead, FanjuFoot, FanjuTou, FanjuXin, FanjuBan, FanjuTag, FanjuNav}
     }
 </script>
 
