@@ -13,8 +13,8 @@
                         active-text-color="#ffffffa8"
                        >
                     <el-menu-item index="1">漫画榜</el-menu-item>
-                    <el-menu-item index="1">国漫榜</el-menu-item>
-                    <el-menu-item index="1">飙升榜</el-menu-item>
+<!--                    <el-menu-item index="1">国漫榜</el-menu-item>-->
+<!--                    <el-menu-item index="1">飙升榜</el-menu-item>-->
                 </el-menu>
             </div>
             <div class="main" style="height: 300px;width: 100%">
