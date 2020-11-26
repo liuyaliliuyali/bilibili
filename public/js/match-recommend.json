@@ -1,0 +1,98 @@
+{
+  "ret": true,
+  "data": {
+      "hot": [{
+        "id": "0001",
+        "title": "【峡谷宅急送】听“唢呐”猜歌名！暖阳一言不合就卖萌？",
+        "imgUrl": "//i0.hdslb.com/bfs/archive/fa942b8123d227d024abe1f5bfffb3cc1ca46bd2.jpg@263w_165h.webp",
+        "tag": "297",
+        "people": "2"
+      },{
+        "id": "0002",
+        "title": "《暴雪游戏铁人五项》第三季首期预告片：隔壁老王来啦！",
+        "imgUrl": "//i1.hdslb.com/bfs/archive/5b788e4bcc0c10575c8d0703c9c655c8e1e01622.jpg@263w_165h.webp",
+        "tag": "1.3万",
+        "people": "10"
+      },{
+        "id": "0003",
+        "title": "《老炮儿联盟》：Bin来了！管泽元已成SN全队公敌，遭Bin现场狂怼！！！",
+        "imgUrl": "//i1.hdslb.com/bfs/archive/c228e786db5b253fee8a6605016f5e028a5c7922.jpg@263w_165h.webp",
+        "tag": "24.1万",
+        "people": "2072"
+      },{
+        "id": "0004",
+        "title": "【WB.TS】Vlog.11 主题周记录 感谢与你们相遇，一起走的更远吧",
+        "imgUrl": "//i1.hdslb.com/bfs/archive/f01d2427503b3ff564b36fe46e8b09449ff9e073.jpg@263w_165h.webp",
+        "tag": "7172",
+        "people": "205"
+      },{
+        "id": "0005",
+        "title": "【Dota2】《小象 小象 2.0》精彩再放送",
+        "imgUrl": "//i0.hdslb.com/bfs/archive/4dd2b5f0ff11cd2bd4c607861e591bdf606a11c6.jpg@263w_165h.webp",
+        "tag": "35.0万",
+        "people": "1253"
+      },{
+        "id": "0006",
+        "title": "【LOL】G2.Rekkles已连接",
+        "imgUrl": "//i0.hdslb.com/bfs/archive/22cc62d34b74140f1e7d04184ed9e54d985dcfec.jpg@263w_165h.webp",
+        "tag": "48.8万",
+        "people": "1191"
+      },{
+        "id": "0007",
+        "title": "【LOL】G2.Perkz断开连接",
+        "imgUrl": "//i0.hdslb.com/bfs/archive/3d7afde0f2fa17ec2bb10c8b791e40769eb75da1.jpg@263w_165h.webp",
+        "tag": "22.9万",
+        "people": "381"
+      },{
+        "id": "0008",
+        "title": "守望先锋新英雄：乐言 英雄介绍",
+        "imgUrl": "//i1.hdslb.com/bfs/archive/1d62c8f621d9451f96da134d21dfd9089ea28a3c.jpg@263w_165h.webp",
+        "tag": "8.7万",
+        "people": "153"
+      }
+      ],
+    "mess": {
+      "2020全球总决赛": [
+        {
+          "id": "0001",
+          "title1": "[2020全球总决赛]10月31日决赛 SN vs DWG",
+          "imgUrl1": "//i0.hdslb.com/bfs/archive/5dab12af6b7a9b7bb7e8b3dbd63a32309310ad47.jpg@263w_165h.webp",
+          "tag": "305.4万",
+          "people": "5.0万"
+        },{
+          "id": "0002",
+          "title1": "[2020全球总决赛]10月25日半决赛 TES vs SN",
+          "imgUrl1": "//i1.hdslb.com/bfs/archive/0cdcdb2fe67dd860d56a29c73b399531130cc8cb.jpg@263w_165h.webp",
+          "tag": "501.6万",
+          "people": "6.7万"
+        }],
+      "2020守望先锋联赛": [{
+        "id": "0001",
+        "imgUrl1": "//i1.hdslb.com/bfs/archive/f215ac758eea98818f7678b880d153e228228476.jpg@263w_165h.webp",
+        "title1": "[OWL守望先锋联赛]年度总决赛 首尔王朝 vs 旧金山震动",
+        "tag": "13.1万",
+        "people": "1775"
+      },{
+        "id": "0002",
+        "title1": "[OWL守望先锋联赛]总决赛第二轮10月9日 首尔王朝 vs 上海龙",
+        "imgUrl1": "//i2.hdslb.com/bfs/archive/4014bd0a38ded844c2f71b25bd6eef1c91f4539b.jpg@263w_165h.webp",
+        "tag": "9.0万",
+        "people": "1356"
+      }
+      ],
+      "2020KPL秋季赛": [{
+        "id": "0001",
+        "title1": "[KPL秋季赛]佛山GK vs RW侠",
+        "imgUrl1": "//i0.hdslb.com/bfs/archive/b7558723f539a6cdccad6b31f1127290f3fb0793.jpg@263w_165h.webp",
+        "tag": "6.0万",
+        "people": "855"
+      },{
+        "id": "0002",
+        "title1": "[KPL秋季赛] RNG.M vs WB.TS",
+        "imgUrl1": "//i2.hdslb.com/bfs/archive/5350dd4696d1bf9b2a753d5ddf5c0435ca07d4fa.jpg@263w_165h.webp",
+        "tag": "9.8万",
+        "people": "2591"
+      }]
+    }
+  }
+}
