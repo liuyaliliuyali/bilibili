@@ -13,7 +13,7 @@
     import Gamebottom from "./components/Gamebottom";
     export default {
         name: "Youxizhongxin",
-        components: {Gamecentercore, Gamecenterhead, Gamebottom, Gamecore, Gamehead}
+        components: {Gamebottom, Gamecore, Gamehead}
     }
 </script>
 

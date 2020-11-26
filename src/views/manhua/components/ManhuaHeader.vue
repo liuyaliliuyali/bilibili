@@ -34,7 +34,7 @@
         box-shadow: 0 0 5px 1px rgba(158,179,193,.5);
         overflow: visible;
         background-color: white;
-        position: absolute;
+        position: fixed;
         z-index: 99;
     }
     .container {

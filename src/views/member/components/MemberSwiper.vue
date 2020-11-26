@@ -2,22 +2,22 @@
     <div class="member-swiper">
         <el-carousel :interval="4000"  height="190px">
             <el-carousel-item>
-                <img src="../../../CSS-member/swiper1.jpeg"  width="100%"/>
+                <img src="../../../CSS-member/swiper1.jpeg" width="100% "height="200px"/>
             </el-carousel-item>
             <el-carousel-item>
-                <img src="../../../CSS-member/swiper2.jpeg"  width="100%"/>
+                <img src="../../../CSS-member/swiper2.jpeg"  width="100% "height="200px"/>
             </el-carousel-item>
             <el-carousel-item>
-                <img src="../../../CSS-member/swiper3.jpeg"  width="100%"/>
+                <img src="../../../CSS-member/swiper3.jpeg"  width="100% "height="200px"/>
             </el-carousel-item>
             <el-carousel-item>
-                <img src="../../../CSS-member/swiper4.jpeg"  width="100%"/>
+                <img src="../../../CSS-member/swiper4.jpeg"  width="100% "height="200px"/>
             </el-carousel-item>
             <el-carousel-item>
-                <img src="../../../CSS-member/swiper5.jpeg"  width="100%"/>
+                <img src="../../../CSS-member/swiper5.jpeg"  width="100% "height="200px"/>
             </el-carousel-item>
             <el-carousel-item>
-                <img src="../../../CSS-member/swiper6.jpeg"  width="100%"/>
+                <img src="../../../CSS-member/swiper6.jpeg"  width="100% "height="200px"/>
             </el-carousel-item>
         </el-carousel>
         <div class="member-writing">

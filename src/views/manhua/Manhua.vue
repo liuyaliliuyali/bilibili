@@ -1,5 +1,6 @@
 <template>
     <div>
+        <manhua-back></manhua-back>
         <manhua-header></manhua-header>
         <manhua-swiper></manhua-swiper>
         <manhua-nav></manhua-nav>
@@ -20,10 +21,11 @@
     import ManhuaMessage from "./components/ManhuaMessage";
     import ManhuaBottom from "./components/ManhuaBottom";
     import ManhuaHot from "./components/ManhuaHot";
+    import ManhuaBack from "./components/ManhuaBack";
     export default {
         name: "Manhua",
         components: {
-            ManhuaHot,
+            ManhuaBack, ManhuaHot,
             ManhuaBottom, ManhuaMessage, ManhuaRank, ManhuaRecommend, ManhuaHeader, ManhuaNav, ManhuaSwiper},
 
         data(){
@@ -34,7 +36,7 @@
                 oneWeed:[],
                 yishijie:[],
                 old:[],
-                mess:{}
+                mess:{},
             }
         },
         created() {
